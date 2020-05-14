@@ -23,37 +23,37 @@ function promptUser() {
         {
             type: "input",
             name: "tableOfContents",
-            message: "What is your name?"
+            message: "List a table of contents"
         },
         {
             type: "input",
             name: "installation",
-            message: "Where are you from?"
+            message: "Enter installation information for yur project."
         },
         {
             type: "input",
             name: "usage",
-            message: "What is your favorite hobby?"
+            message: "Enter usage information for your project."
         },
         {
             type: "input",
             name: "license",
-            message: "What is your favorite food?"
+            message: "Enter license information for your project.?"
         },
         {
             type: "input",
             name: "contributing",
-            message: "Enter your GitHub Username"
+            message: "Enter contributing information for your project."
         },
         {
             type: "input",
             name: "tests",
-            message: "Enter your LinkedIn URL."
+            message: "Enter tests information for your project."
         },
         {
             type: "input",
             name: "questions",
-            message: "Enter your LinkedIn URL."
+            message: "Enter question information for your project."
         }
 
     ])
